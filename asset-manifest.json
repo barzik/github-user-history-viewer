@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/barzik/github-user-history-viewer/static/css/main.106baaae.chunk.css",
+    "main.js": "/barzik/github-user-history-viewer/static/js/main.abc09dfe.chunk.js",
+    "main.js.map": "/barzik/github-user-history-viewer/static/js/main.abc09dfe.chunk.js.map",
+    "runtime-main.js": "/barzik/github-user-history-viewer/static/js/runtime-main.56cfaf35.js",
+    "runtime-main.js.map": "/barzik/github-user-history-viewer/static/js/runtime-main.56cfaf35.js.map",
+    "static/js/2.17c4ebe9.chunk.js": "/barzik/github-user-history-viewer/static/js/2.17c4ebe9.chunk.js",
+    "static/js/2.17c4ebe9.chunk.js.map": "/barzik/github-user-history-viewer/static/js/2.17c4ebe9.chunk.js.map",
+    "static/js/3.f6a3a29d.chunk.js": "/barzik/github-user-history-viewer/static/js/3.f6a3a29d.chunk.js",
+    "static/js/3.f6a3a29d.chunk.js.map": "/barzik/github-user-history-viewer/static/js/3.f6a3a29d.chunk.js.map",
+    "index.html": "/barzik/github-user-history-viewer/index.html",
+    "static/css/main.106baaae.chunk.css.map": "/barzik/github-user-history-viewer/static/css/main.106baaae.chunk.css.map",
+    "static/js/2.17c4ebe9.chunk.js.LICENSE.txt": "/barzik/github-user-history-viewer/static/js/2.17c4ebe9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56cfaf35.js",
+    "static/js/2.17c4ebe9.chunk.js",
+    "static/css/main.106baaae.chunk.css",
+    "static/js/main.abc09dfe.chunk.js"
+  ]
+}
